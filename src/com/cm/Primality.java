@@ -3,6 +3,9 @@ package com.cm;
 import java.math.BigInteger;
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/challenges/java-primality-test/problem
+ */
 public class Primality {
 
     public Primality() {
